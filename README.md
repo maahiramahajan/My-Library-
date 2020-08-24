@@ -1,2 +1,2 @@
-# My-Library-
-Working on visual studio and designing my own library.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
